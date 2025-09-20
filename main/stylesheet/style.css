@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #C1BDB3;
     transition: body 1s ease-in-out;
 }
 
@@ -7,11 +7,22 @@ header{
     text-align: center;
     padding: 60px;
     font-size: 30px;
-    background-color: black;
-    background: linear-gradient(white,background-color);
+    background-color: #C1BDB3;
 }
 
-p,h1, h2, h3, h4, h5, h6{
-    text-align: center;
-    padding: 60px;
+hr{
+    border-color: #7C7D78;
 }
+
+b{
+    color: #313130;
+}
+
+p, h1, h2, h3, h4, h5, h6{
+    font-family: Tektur;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
