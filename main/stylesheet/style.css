@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    transition: body 1s ease-in-out;
+}
+
+header{
+    text-align: center;
+    padding: 60px;
+    font-size: 30px;
+    background-color: black;
+    background: linear-gradient(white,background-color);
+}
+
+p,h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    padding: 60px;
+}
