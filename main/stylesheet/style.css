@@ -10,6 +10,10 @@ header{
     background-color: #C1BDB3;
 }
 
+header.p, header.h1, header.h2, header.h3, header.h4, header.h5, header.h6{
+    padding: 10;
+}
+
 hr{
     border-color: #7C7D78;
 }
@@ -22,7 +26,6 @@ p, h1, h2, h3, h4, h5, h6{
     font-family: Tektur;
     color: white;
     text-align: center;
-    padding: 20px;
 }
 
 
