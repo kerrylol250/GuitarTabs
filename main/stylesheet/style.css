@@ -10,8 +10,8 @@ header{
     background-color: #C1BDB3;
 }
 
-header.p, header.h1, header.h2, header.h3, header.h4, header.h5, header.h6{
-    padding: 10;
+header *{
+    padding: 5px;
 }
 
 hr{
