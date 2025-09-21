@@ -1,3 +1,6 @@
+* {
+    font-family: Tektur;
+}
 body{
     background-color: #C1BDB3;
     transition: body 1s ease-in-out;
@@ -28,4 +31,25 @@ p, h1, h2, h3, h4, h5, h6{
     text-align: center;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border-color: #313130;
+}
 
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #7C7D78;
+}
